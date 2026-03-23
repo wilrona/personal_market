@@ -1,0 +1,8 @@
+{
+  "name": "essential-workflows",
+  "version": "1.4.0",
+  "description": "Skills essentiels extraits de fullstack-dev-skills : requirements gathering, critical thinking, MCP development, prompt engineering, architecture (GraphQL, Microservices), et frameworks spécifiques (Flutter, Kotlin, React Native, Swift, .NET, C#, RAG). Version ultra-allégée avec 14 skills au lieu de 70+ (workflows Jira retirés).",
+  "author": {
+    "name": "wilrona"
+  }
+}

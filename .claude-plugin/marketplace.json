@@ -1,0 +1,35 @@
+{
+  "name": "my-plugins",
+  "owner": {
+    "name": "wilrona"
+  },
+  "plugins": [
+    {
+      "name": "ralph-pro",
+      "source": "./plugins/ralph-pro",
+      "description": "Ralph Pro - Iterative development with multi-PRD support, circuit breaker, and progress tracking",
+      "version": "1.0.0",
+      "category": "development"
+    },
+    {
+      "name": "dev-skill",
+      "source": "./plugins/dev-skill",
+      "description": "Collection complète de skills de développement : Apex (workflow progressif), Frontend Design Pro (UI avec 21st.dev + shadcn), et PRD Generator (documentation PRD en français)",
+      "version": "2.0.0",
+      "author": {
+        "name": "wilrona"
+      },
+      "category": "development"
+    },
+    {
+      "name": "essential-workflows",
+      "source": "./plugins/essential-workflows",
+      "description": "Skills essentiels extraits de fullstack-dev-skills : requirements gathering, critical thinking, MCP development, prompt engineering, architecture (GraphQL, Microservices), et frameworks spécifiques (Flutter, Kotlin, React Native, Swift, .NET, C#, RAG). Version ultra-allégée avec 14 skills au lieu de 70+ (workflows Jira retirés).",
+      "version": "1.4.0",
+      "author": {
+        "name": "wilrona"
+      },
+      "category": "workflow"
+    }
+  ]
+}

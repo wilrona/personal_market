@@ -1,0 +1,8 @@
+{
+  "name": "ralph-pro",
+  "version": "1.0.0",
+  "description": "Ralph Wiggum Pro - Iterative development with multi-PRD support, circuit breaker, and progress tracking. Combines the best of Ralph Wiggum technique with advanced features.",
+  "author": {
+    "name": "Custom Plugin"
+  }
+}

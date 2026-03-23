@@ -1,0 +1,15 @@
+{
+  "description": "Ralph Pro plugin hooks - enhanced stop hook with circuit breaker and progress tracking",
+  "hooks": {
+    "Stop": [
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "command": "${CLAUDE_PLUGIN_ROOT}/hooks/stop-hook.sh"
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "name": "dev-skill",
+  "version": "2.0.0",
+  "description": "Collection complète de skills de développement : Apex (workflow progressif), Frontend Design Pro (UI avec shadcn+Magic ou Gemini Design), et PRD Generator (documentation PRD en français)",
+  "author": {
+    "name": "wilrona"
+  }
+}
